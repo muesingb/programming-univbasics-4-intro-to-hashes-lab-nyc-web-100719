@@ -12,7 +12,7 @@ def pioneer
 end
 # return a hash with a key :id assigned to positive integer
 def id_generator
-#  {:id => 10}
+  {:id => 10}
 end
 # return a hash that includes the key and value parameters passed into this method
 def my_hash_creator(key, value)
