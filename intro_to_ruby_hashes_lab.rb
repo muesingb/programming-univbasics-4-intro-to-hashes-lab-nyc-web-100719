@@ -1,6 +1,6 @@
 # creates and returns a new, empty hash.
 def new_hash
-  return new_hash = {}
+  return {}
 end
 # return a valid hash with any key/value pair of your choice
 def my_hash
