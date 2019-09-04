@@ -4,7 +4,7 @@ def new_hash
 end
 # return a valid hash with any key/value pair of your choice
 def my_hash
-#  barbara = {name: "Barbara", Age:"26"}
+  barbara = {name: "Barbara", Age:"26"}
 end
 # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 def pioneer
